@@ -1,4 +1,4 @@
-################################################# Ola, Meu nome e Gustavo Gomes
+## Ola, Meu nome e Gustavo Gomes
 <div align="center">
   <a href="https://github.com/ggomes061">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggomes061&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
