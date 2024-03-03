@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A backend developer from Brazil</h3>
-<a href='">
-  <img align="center" src="programing.gif" alt="foto" style="width:300px;height:300px;>
-  <img align="right" src="giphy.gif" alt="codebase" style="width:250px; height:250px;>
-</a>
+<img align="center" src="gt.gif" alt="foto" style="width:300px;height:300px;>
+
 
 
 
