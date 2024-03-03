@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A backend developer from Brazil</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0XuFlvvD1b4VUbQIDbDvJW&ust=1709587600940000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiemZ6E2YQDFQAAAAAdAAAAABAE" alt="coding" >
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0XuFlvvD1b4VUbQIDbDvJW&ust=1709587600940000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiemZ6E2YQDFQAAAAAdAAAAABAE" alt="coding](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggomes061&label=Profile%20views&color=0e75b6&style=flat" alt="ggomes061" /> </p>
 
