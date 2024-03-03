@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A backend developer from Brazil</h3>
-<img align="right" src="gt.gif" alt="foto" style="width:480px;height:360px;>
+<img align="right" src="gt.gif" alt="foto" style="width:400px;height:280px;>
 
 
 
