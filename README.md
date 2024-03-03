@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A backend developer from Brazil</h3>
-<img align="center" src="gitgif.gif" alt="foto" width="250";>
+<img align="center" src="gitgif.gif" alt="foto" width="350";>
 
 
 
