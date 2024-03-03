@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A backend developer from Brazil</h3>
-<img align="center" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" alt="foto" >
+<img align="center" src="programing.gif" alt="foto" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggomes061&label=Profile%20views&color=0e75b6&style=flat" alt="ggomes061" /> </p>
 
