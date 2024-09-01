@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggomes061&label=Profile%20views&color=0e75b6&style=flat" alt="ggomes061" /> </p>
 
-- 📫 How to reach me **ggomes351@proton.me**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **ggomes351@proton.me**
 <p align="left">
 </p>
 
